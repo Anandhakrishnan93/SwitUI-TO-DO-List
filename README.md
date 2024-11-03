@@ -14,5 +14,5 @@ The sample Api response is likewise. Prepare an REST Api and add in constants.
   "title": "Ronin",
   "body": "Insert esoph obtu airway",
   "time": "6:55 PM",
-  "image": "http://dummyimage.com/207x100.png/ff4444/ffffff"
+  "image": "<image url>"
 }]
